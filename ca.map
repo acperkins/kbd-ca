@@ -15,7 +15,7 @@ include "linux-with-alt-and-altgr"
 strings as usual
 compose as usual for "iso-8859-1"
 
-############# Keycode XXX = Level1 ######## Level2 ######## Level3
+# Modifier ## Keycode XXX = Level1 ######## Level2 ######## Level3 ###########
               keycode   1 = Escape          Escape
           alt keycode   1 = Meta_Escape
               keycode   2 = one             exclam          plusminus
