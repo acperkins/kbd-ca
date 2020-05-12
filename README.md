@@ -1,4 +1,4 @@
-# Canadian Multilingual Standard keyboard layout for Linux
+# Canadian Multilingual Standard keyboard layout for Linux console
 
 This adds the Canadian Multilingual Standard keyboard layout to the Linux
 console.
